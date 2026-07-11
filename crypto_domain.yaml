@@ -1,0 +1,15 @@
+payload:
+#tron  
+  - '+.tronlink.org'
+  - '+.tronscan.org'
+  - '+.tronscan.io'
+  - '+.trongrid.io'
+  - '+.tronstack.io'
+  - '+.tronads.io'
+  - '+.tronenergy.market'
+  - '+.tronsave.io'
+  - '+.tron.network'
+#gate
+  - '+.gate.com'
+#sun
+  - '+.sun.io'
