@@ -13,3 +13,5 @@ payload:
   - '+.gate.com'
 #Sun
   - '+.sun.io'
+#mining
+  - '+.f2pool.com'
