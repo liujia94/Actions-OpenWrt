@@ -6,11 +6,10 @@ payload:
   - '+.trongrid.io'
   - '+.tronstack.io'
   - '+.tronads.io'
+  - '+.tron.network'
+#Tron_energy_rent
   - '+.tronenergy.market'
   - '+.tronsave.io'
-  - '+.tron.network'
-#Gate
-  - '+.gate.com'
 #Sun
   - '+.sun.io'
 #mining
