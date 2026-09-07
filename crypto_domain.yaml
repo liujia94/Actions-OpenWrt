@@ -15,3 +15,5 @@ payload:
 #mining
   - '+.f2pool.com'
   - '+.dxpool.com'
+#polymarket
+  - '+.polymarket.us'
